@@ -1,4 +1,4 @@
-# Logica per l'informatica (73149) foo
+# Logica per l'informatica (73149)
 
 Una raccolta di risorse per l'insegnamento di Logica per l'informatica (73149) del Corso di
 Laurea in Informatica.
